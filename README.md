@@ -29,7 +29,7 @@ Modificada por *Wirk*, TemuBaileys está diseñada para desarrolladores que quie
 Instala directamente desde GitHub:
 
 ```bash
-npm install github:WirkDev/TemuBaileys
+npm install github:Ado926/temubails
 ```
 ---
 
